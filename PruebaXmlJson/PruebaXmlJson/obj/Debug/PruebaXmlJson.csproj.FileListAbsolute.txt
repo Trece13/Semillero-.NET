@@ -1,0 +1,7 @@
+C:\Users\A0766043\source\repos\PruebaXmlJson\PruebaXmlJson\bin\PruebaXmlJson.dll.config
+C:\Users\A0766043\source\repos\PruebaXmlJson\PruebaXmlJson\bin\PruebaXmlJson.dll
+C:\Users\A0766043\source\repos\PruebaXmlJson\PruebaXmlJson\bin\PruebaXmlJson.pdb
+C:\Users\A0766043\source\repos\PruebaXmlJson\PruebaXmlJson\obj\Debug\PruebaXmlJson.csproj.CoreCompileInputs.cache
+C:\Users\A0766043\source\repos\PruebaXmlJson\PruebaXmlJson\obj\Debug\PruebaXmlJson.dll
+C:\Users\A0766043\source\repos\PruebaXmlJson\PruebaXmlJson\obj\Debug\PruebaXmlJson.pdb
+C:\Users\A0766043\source\repos\PruebaXmlJson\PruebaXmlJson\obj\Debug\PruebaXmlJson.csprojAssemblyReference.cache
